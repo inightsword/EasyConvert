@@ -1,0 +1,10 @@
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\bin\Debug\EasyConvert.exe.config
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\bin\Debug\EasyConvert.exe
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\bin\Debug\EasyConvert.pdb
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.csproj.AssemblyReference.cache
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.Properties.Resources.resources
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.csproj.GenerateResource.cache
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.csproj.CoreCompileInputs.cache
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.exe
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.pdb
+D:\Projects\EasyConvert\EasyConvert\EasyConvert\obj\Debug\EasyConvert.Main.resources
